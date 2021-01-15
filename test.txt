@@ -5,3 +5,4 @@ git edit
 git edit two or four
 
 git edit two or three
+new  master change
