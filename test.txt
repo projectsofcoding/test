@@ -2,9 +2,6 @@ hello world new 2
 local edit 1
 git edit 
 
-<<<<<<< HEAD
 git edit two or four
 
-=======
 git edit two or three
->>>>>>> 21456a2ddd926abd788d22a0dc850e47ec48c6b2
